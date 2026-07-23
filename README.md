@@ -40,7 +40,7 @@ Topics include:
 
 ### Frameworks
 
-- [Business-First Architecture Framework](frameworks/01-business-first-architecture-framework.md)
+- [Business-First Architecture Framework](frameworks.md)
 - Architecture Discovery Workshop *(Coming Soon)*
 - ROI Driven Modernization *(Coming Soon)*
 

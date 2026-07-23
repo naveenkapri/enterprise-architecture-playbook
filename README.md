@@ -40,11 +40,9 @@ Topics include:
 
 ### Frameworks
 
-- Business-First Architecture Framework *(Coming Soon)*
-- Architecture Discovery Workshop
-- Build vs Buy Decision Framework
-- Enterprise Modernization Checklist
-- AI Adoption Framework
+- [Business-First Architecture Framework](frameworks/01-business-first-architecture-framework.md)
+- Architecture Discovery Workshop *(Coming Soon)*
+- ROI Driven Modernization *(Coming Soon)*
 
 ---
 
